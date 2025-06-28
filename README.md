@@ -19,7 +19,7 @@ Built with finance, data science, and visualizations in mind, this tool is perfe
 
 ---
 ## Screenshot
-![Preview](![image](https://github.com/user-attachments/assets/10f9a1b2-e6b5-4a20-8e46-b1c5fdef133a)
+![image](https://github.com/user-attachments/assets/10f9a1b2-e6b5-4a20-8e46-b1c5fdef133a)
 
 
 
