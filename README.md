@@ -19,11 +19,7 @@ Built with finance, data science, and visualizations in mind, this tool is perfe
 
 ---
 
-##  Screenshots
 
-![Preview](assets/app_preview.png)
-
----
 
 ## 🛠 Tech Stack
 
