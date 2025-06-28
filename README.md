@@ -9,23 +9,23 @@ Built with finance, data science, and visualizations in mind, this tool is perfe
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 📊 Select major indices and stocks (AAPL, TSLA, SPX, VIX, etc.)
-- 📅 Pick expiry dates and strike prices from real-time data via Yahoo Finance
-- 🧮 Model pricing using three popular approaches
-- 📉 Visualize **Greeks** interactively
-- 🔍 Compare model outputs and insights visually
+-  Select major indices and stocks (AAPL, TSLA, SPX, VIX, etc.)
+-  Pick expiry dates and strike prices from real-time data via Yahoo Finance
+-  Model pricing using three popular approaches
+-  Visualize **Greeks** interactively
+-  Compare model outputs and insights visually
 
 ---
 
-## 📷 Screenshots
+##  Screenshots
 
 ![Preview](assets/app_preview.png)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 - **Python**
 - **Streamlit**
@@ -36,7 +36,7 @@ Built with finance, data science, and visualizations in mind, this tool is perfe
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ```bash
 # Clone the repository
